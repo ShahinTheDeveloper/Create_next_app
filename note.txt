@@ -1,0 +1,10 @@
+In this app, I have named my project as next_app. 
+I didn't have install typeScript because I want to use JavaScript.
+then I disagreed to install ESLint.
+Then Install Tailwind CSS for use CSS framework Tailwind.
+Use src directory for organize files in a src directory.
+Use App Router for Next js updated virsion.
+and did not use customize import alise for use default.
+
+then build ans open in browser.
+
